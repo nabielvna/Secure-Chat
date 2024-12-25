@@ -32,7 +32,7 @@ The system consists of several Python modules working together:
 
 ## Requirements
 
-- Python 3.7+
+- Python 3
 - Socket library (built-in)
 - Threading library (built-in)
 - JSON library (built-in)
