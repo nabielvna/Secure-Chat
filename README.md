@@ -42,8 +42,8 @@ The system consists of several Python modules working together:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/secure-chat.git
-cd secure-chat
+git clone https://github.com/nabielvna/Secure-Chat.git
+cd Secure-Chat
 ```
 
 2. Ensure all files are in the correct directory structure:
